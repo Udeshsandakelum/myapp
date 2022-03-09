@@ -3,9 +3,12 @@
 ## 08th  March 2022
 
 ### Udesh Sandakelum
-#### Helped by MAHESH CHINTHAKA
+
 **2022 March**
 
 
 `git commit -m ""`
 `git push`
+git remote add origin https://github.com/Udeshsandakelum/python-advance.git
+git branch -M main
+git push -u origin main
